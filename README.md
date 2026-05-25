@@ -1,6 +1,8 @@
 # Copyright Helper — US Copyright Registration Assistant for Adobe Lightroom Classic
 
-**Copyright Helper** is a free, open-source Adobe Lightroom Classic plugin that guides photographers through registering their work with the US Copyright Office (eCO), generates the official title list spreadsheet, and exports low-resolution deposit images — all without leaving Lightroom.
+**Copyright Helper** CopyrightHelper is an Adobe Lightroom Classic plugin that guides you through US Copyright Office registration — generating the required spreadsheet and deposit images without leaving Lightroom. No API key or internet connection required.
+Built by Rob Durston — Belfast Photo Workshops 
+Buy CopyrightHelper — £10 — Belfast Photo Workshops https://www.belfastphotoworkshops.com/tips-and-tools
 
 Built by **[Rob Durston](https://www.belfastphotoworkshops.com)** & Claude (Anthropic) — [Belfast Photo Workshops](https://www.belfastphotoworkshops.com)
 
